@@ -64,5 +64,3 @@ If you have any questions, please feel free to contact us.
 
 **Chen Wu**  
 📧 chen.wu@whu.edu.cn
-📧 jy13476021522@163.com
-📧 chen.wu@whu.edu.cn
