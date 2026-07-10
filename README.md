@@ -35,8 +35,8 @@ Saihanba:
 
 The dataset is available at:
 
-- Google Drive: *Coming Soon*
-- Baidu Netdisk: *Coming Soon*
+- Google Drive: https://drive.google.com/file/d/19N5mBuU7sYQnjzyRNzCNeigAXHEBDeg7/view?usp=drive_link
+- Baidu Netdisk: https://pan.baidu.com/s/14aNa1pP4Gtk-oJiODmIcfg?pwd=pz5a
 
 ## Citation
 
